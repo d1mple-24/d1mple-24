@@ -1,67 +1,70 @@
-![MasterHead](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
-
 <h1 align="center">Hi 👋, I'm d1mple24</h1>
 <h3 align="center">A Passionate Frontend Developer from the Philippines</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Turning+ideas+into+reality;Clean+code+enthusiast;Always+learning+new+tech" alt="Typing SVG" />
+</p>
 
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWczZmN3ZWh4ZnY0Ynh4bHA2Z2J5ZGxqazI4anNneXl2YmRheTdkayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
 
 ---
 
-<p align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=d1mple-24&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
-</p>
+### 🚀 About Me
 
-- 🌱 I’m currently learning **JavaScript, React, MUI**  
-- 💬 Ask me about **Desktop and Laptop**  
-- 📫 How to reach me: **kujohjotaro24@gmail.com**
-
----
-
-<h3 align="left">🛠️ Languages and Tools:</h3>
-<p align="left"> 
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> 
-    </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
-    </a> 
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/> 
-    </a> 
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> 
-    </a> 
-</p>
+- 🌱 Currently learning **JavaScript, React, MUI**  
+- 💻 Desktop/Laptop hardware enthusiast  
+- 📫 Reach me at: **kujohjotaro24@gmail.com**
+- ⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes
 
 ---
 
-<h3 align="center">📊 GitHub Stats:</h3>
+### 🛠 Tech Stack
+
+#### Languages
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+#### Frameworks & Libraries
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+#### Databases
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### Design
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=d1mple-24&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=d1mple-24&show_icons=true&locale=en" alt="GitHub Stats" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=d1mple-24" alt="GitHub Streak Stats" />
-      </td>
-    </tr>
-  </table>
+  
+  ![d1mple24's GitHub stats](https://github-readme-stats.vercel.app/api?username=d1mple-24&show_icons=true&theme=radical)
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d1mple-24&layout=compact&theme=radical)
+  
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=d1mple-24&theme=radical)
+  
 </div>
-
 
 ---
 
-✨ **Thanks for visiting! Feel free to explore and connect!** ✨
+### 🤝 Connect With Me
+
+<p align="center">
+  <a href="mailto:kujohjotaro24@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=d1mple-24&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
+</p>
+
+<p align="center"> 
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
+  <em><b>I love connecting with fellow developers</b> so feel free to reach out!</em> 
+</p>
