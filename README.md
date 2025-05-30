@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm d1mple24</h1>
-<h3 align="center">📚 "Forever a student of the web—a Frontend Developer from the Philippines who codes, breaks, learns, and repeats!"</h3>
+<h3 align="center">📚 "Forever a student of the web a Frontend Developer from the Philippines who codes, breaks, learns, and repeats!"</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Turning+ideas+into+reality;Clean+code+enthusiast;Always+learning+new+tech" alt="Typing SVG" />
