@@ -41,18 +41,26 @@
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=d1mple-24&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</div>
+<h3 align="center">📊 GitHub Stats:</h3>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=d1mple-24&show_icons=true&locale=en" alt="GitHub Stats" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=d1mple-24&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=d1mple-24&show_icons=true&locale=en" alt="GitHub Stats" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=d1mple-24" alt="GitHub Streak Stats" />
+      </td>
+    </tr>
+  </table>
 </div>
 
-<div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=d1mple-24" alt="GitHub Streak Stats" />
-</div>
 
 ---
 
