@@ -14,7 +14,7 @@
 - 🌱 Currently learning **JavaScript, React, MUI**  
 - 💻 Desktop/Laptop hardware enthusiast  
 - 📫 Reach me at: **kujohjotaro24@gmail.com**
-- ⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes
+- ⚡ Fun fact: I am good in video games (kinda) XD
 
 ---
 
