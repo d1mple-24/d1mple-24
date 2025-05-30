@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm d1mple24</h1>
-<h3 align="center">A Passionate Frontend Developer from the Philippines</h3>
+<h3 align="center">An eager Frontend Developer from the Philippines, blending creativity with code while embracing the endless journey of learning and growth.</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Turning+ideas+into+reality;Clean+code+enthusiast;Always+learning+new+tech" alt="Typing SVG" />
